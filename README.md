@@ -31,10 +31,9 @@ To run this bot, you cannot use the Google Play Store version of Termux (it is o
 ```
 
 2. **Clone the repository:**
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
-
+   ```bash
+   git clone [https://github.com/Talhasajid674/mobile_control.git](https://github.com/Talhasajid674/mobile_control.git)
+   cd mobile_control
 ```
 
 
