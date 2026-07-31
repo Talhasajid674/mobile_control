@@ -33,7 +33,6 @@ To run this bot, you cannot use the Google Play Store version of Termux (it is o
    ```bash
    git clone [https://github.com/Talhasajid674/mobile_control.git](https://github.com/Talhasajid674/mobile_control.git)
    cd mobile_control
-```
 
 
 3. **Install dependencies:**
