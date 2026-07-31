@@ -28,7 +28,6 @@ To run this bot, you cannot use the Google Play Store version of Termux (it is o
    pkg update -y && pkg upgrade -y
    pkg install termux-api nodejs git -y
 
-```
 
 2. **Clone the repository:**
    ```bash
